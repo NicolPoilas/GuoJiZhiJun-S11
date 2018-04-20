@@ -1,0 +1,16 @@
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\GuoJiZhiJun S11.exe.config
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\GuoJiZhiJun S11.exe
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\GuoJiZhiJun S11.pdb
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\canDriver.dll
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\canlibCLSNET.dll
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\canTrans.dll
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\MmTimer.dll
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\bin\Debug\SecurityAccess.dll
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun S11.csprojResolveAssemblyReference.cache
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun_S11.Properties.Resources.resources
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun S11.csproj.GenerateResource.Cache
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun S11.exe
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun S11.pdb
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun_S11.Main.resources
+c:\users\ce-005\documents\visual studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun_S11.Simulation.resources
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\GuoJiZhiJun S11\GuoJiZhiJun S11\obj\Debug\GuoJiZhiJun_S11.Monitor.resources
